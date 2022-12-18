@@ -1,0 +1,5 @@
+{
+    "usuario":[
+    { "id_usuario": "1", "nombre": "Jose","apellido_paterno":"Domínguez","apellido_materno":"Pérez","correo":"dominguezpj@gmail.com","telefono":"4492457832","calle":"Convención de 1914","numero":"212","colonia":"Fraccionamiento México","municipio":"Aguascalientes","id_estado":"1","codigoP":"20156","id_envio":"1","id_paquete":"1"}
+    ]
+}

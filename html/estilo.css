@@ -1,0 +1,150 @@
+/* Importación de fuentes de google fonts */ 
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+
+
+body{
+  height: 100%; 
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #6344ab; 
+  background-image: url(./imagenes/fondo.png);
+  background-size: cover;
+}
+
+
+.contact_form{  
+  width: 460px; 
+  height: auto;
+  margin: 10px auto;
+  border-radius: 10px;  
+  padding-top: 2px;
+  padding-bottom: 7px;  
+  background-color: #ed6808; 
+  padding-left: 30px; 
+  border-color: #000000;
+  
+  
+}
+
+
+input{
+  background-color: #fbfbfb; 
+  width: 140px; 
+  height: 25px; 
+  border-radius: 5px;  
+  border-style: solid; 
+  border-width: 1px; 
+  border-color: #dfdfe3; 
+  margin-top: 5px;  
+  padding-left: 1px;
+  margin-bottom: 5px; 
+  border-color: #000000; 
+  border-width: 3;
+  
+}
+
+
+textarea{
+  background-color: #ff890b; 
+  width: 5px; 
+  height: 10px; 
+  border-radius: 5px;  
+  border-style: solid; 
+  border-width: 1px; 
+  border-color: #ffffff; 
+  margin-top: 1px;  
+  padding-left: 10px;
+  margin-bottom: 1px; 
+  padding-top: 1px; 
+}
+
+
+label{
+  display:; 
+  float: center; 
+  
+}
+
+
+button{
+  height: 45px; 
+  padding-left: 5px;
+  padding-right: 5px;   
+  margin-bottom: 1px; 
+  margin-top: 1px;   
+  text-transform: uppercase;
+  background-color: #000000; 
+  border-color: #ffffff; 
+  border-style: solid; 
+  border-radius: 10px;  
+  width: 420px;   
+  cursor: pointer;
+}
+
+select{
+  font-size: 16px; 
+  padding-bottom: 5px;
+  color: #0e0e0e;   
+  background-color: #fc7600;
+  border-radius: 5px;
+  border-color: #ffffff;
+  width: 140px;
+}
+
+button p{
+  color: #fff; 
+}
+
+
+span{
+  color: #000000; 
+}
+
+
+.aviso{
+  font-size: 13px;  
+  color: #0e0e0e;  
+}
+
+
+h1{
+  font-size: 39px;  
+  text-align: center; 
+  padding-bottom: 1px; 
+  color: #000000;
+}
+
+
+h3{
+  font-size: 16px; 
+  padding-bottom: 5px;
+  color: #0e0e0e;   
+}
+
+
+p{
+  font-size: 14px; 
+  color: #ffffff; 
+}
+
+
+::-webkit-input-placeholder {
+ color: #a8a8a8;
+}
+
+
+::-webkit-textarea-placeholder {
+ color: #a8a8a8;
+}
+
+
+.formulario input:focus{
+  outline:0;
+  border: 1px solid #ffcf6f;
+}
+
+
+.formulario textarea:focus{
+  outline:0;
+  border: 1px solid #ffa53f;
+}
+
