@@ -1,0 +1,44 @@
+<resources>
+    <string name="mapbox_access_token">pk.eyJ1Ijoicm9kcmlndWV6YWxleGlzMDI3IiwiYSI6ImNsYjJsYnJnNDA1OWszdm14emNpNGhoN2oifQ.wsUdV-dlTWI5H-l2hqb0oQ</string>
+    <string name="app_name">Planet Express</string>
+    <string name="ingrese_id">Ingrese id</string>
+    <string name="button">Button</string>
+    <string name="origen">Origen:</string>
+    <string name="destino">Destino:</string>
+    <string name="textview">TextView</string>
+    <string name="textview2">TextView</string>
+    <string-array name="estados">
+        <item>Aguascalientes</item>
+        <item>Baja California</item>
+        <item>Baja California Sur</item>
+        <item>Campeche</item>
+        <item>Chiapas</item>
+        <item>Chihuahua</item>
+        <item>Coahuila</item>
+        <item>Colima</item>
+        <item>Distrito Federal</item>
+        <item>Durango</item>
+        <item>Guanajuato</item>
+        <item>Guerrero</item>
+        <item>Hidalgo</item>
+        <item>Jalisco</item>
+        <item>Mexico</item>
+        <item>Michoacan</item>
+        <item>Morelos</item>
+        <item>Nayarit</item>
+        <item>Nuevo Leon</item>
+        <item>Oaxaca</item>
+        <item>Puebla</item>
+        <item>Queretaro</item>
+        <item>Quintana Roo</item>
+        <item>San Luis Potosi</item>
+        <item>Sinaloa</item>
+        <item>Sonora</item>
+        <item>Tabasco</item>
+        <item>Tamaulipas</item>
+        <item>Tlaxcala</item>
+        <item>Veracruz</item>
+        <item>Yucatan</item>
+        <item>Zacatecas</item>
+    </string-array>
+</resources>

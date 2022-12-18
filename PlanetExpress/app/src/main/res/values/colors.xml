@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vivid_tangerine">#FCA786</color>
+    <color name="spanish_orange">#EE5F00</color>
+    <color name="mahogany">#B34800</color>
+    <color name="fulvous">#DA8403</color>
+    <color name="dark_bronze">#875101</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
